@@ -1,38 +1,28 @@
 # Dogs
+
 ## My top three dog breeds
 1. Husky
-    - Very energetic
-    - They *love* cold weather
-    - They hate being left alone
-        - **My rating: 6/10**
+   - Very energetic
+   - They *love* cold weather
+   - They hate being left alone
+   - **My rating: 6/10**
 2. Shih Tzu
-    - Super affectionate
-    - Great watchdogs
-    - They *don't* like heights
-        - **My rating: 7/10**
+   - Super affectionate
+   - Great watchdogs
+   - They *don't* like heights
+   - **My rating: 7/10**
 3. Bernese Mountain Dog
-    - Gentle and friendly
-    - They are *super* intelligent
-    - They don't like yelling
-      - **My rating: 8/10**
+   - Gentle and friendly
+   - They are *super* intelligent
+   - They don't like yelling
+   - **My rating: 8/10**
 
-# Cute dog pictures
-
-![Cute Husky Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UcDlumO66u8uWtS1VAk6dTPDKI1Jm6__VU3tX8AalA&s=10)
-
-![Cute Shih Tzu Picture](https://i.pinimg.com/originals/01/df/1b/01df1bd93f91721addf71ed0aeb1103a.jpg?nii=t)
-
-![Cute Bernese Mountain Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGyRN_MGbxegZeIyX7BRAieoswiBg-NTcsz9oVNYXww&s=10)
-
-### Dog adoption logistics
-
+### Dog adoption costs + things to buy
 | Dog | Cost |
 |-----|------|
 |Husky| $1,000|
 | Shih Tzu| $1,500 |
 | Bernese | $3,000 |
-
--------------------------------------------
 
 - [x] dog food
 - [x] dog bed
@@ -40,23 +30,32 @@
 - [x] toys
 - [x] treats
 
-[General Dog Care](https://www.aspca.org/pet-care/dog-care/general-dog-care)
+[General Dog Care](https://aspca.org)
 
-# Code snippets for dogs
+# Cute dog pictures
 
-## Husky
-```
+## Photos and dog code...
+![Cute Husky Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgqijLB2C3F9bGn3QwjsZXFsYbM13c4AyJe4v7d2dkw&s=10))
+```python
 dog = "Husky"
 print(dog)
 ```
 
-## Shih Tzu
-```
+![Cute Shih Tzu Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2WOUoN3fxtnpCcwVmaYnJNu1HLbUU0-Qg5Wij9NUwtw&s=10))
+```python
 dog = "Shih Tzu"
 print(dog)
 ```
 
-## Bernese
-```
+![Cute Bernese Mountain Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q46lHgCzaHIxdzYgXbkqQs8MYqdkL9k0uchEDmtSBQ&s=10)
+```python
 dog = "Bernese"
 print(dog)
+```
+
+## Why do I like dogs?
+- They're cute
+- They're fun to play with
+- They're man's best friend
+------------------------------------------------------
+That's all about dogs!
