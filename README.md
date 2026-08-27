@@ -1,12 +1,5 @@
 # Dogs
-
 ## My top three dog breeds
-
-- Husky
-- Shih Tzu
-- Bernese Mountain Dog
-
-### Dog breeds in depth
 1. Husky
     - Very energetic
     - They *love* cold weather
@@ -23,7 +16,7 @@
     - They don't like yelling
       - **My rating: 8/10**
 
-## Cute dog pictures
+# Cute dog pictures
 
 ![Cute Husky Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UcDlumO66u8uWtS1VAk6dTPDKI1Jm6__VU3tX8AalA&s=10)
 
@@ -31,7 +24,7 @@
 
 ![Cute Bernese Mountain Picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpGyRN_MGbxegZeIyX7BRAieoswiBg-NTcsz9oVNYXww&s=10)
 
-##Average Cost of my top 3 dogs...
+### Dog adoption logistics
 
 | Dog | Cost |
 |-----|------|
@@ -39,13 +32,8 @@
 | Shih Tzu| $1,500 |
 | Bernese | $3,000 |
 
-### Code snippet for dogs
-```
-dog = "Husky"
-print(dog)
-```
+-------------------------------------------
 
-### What do you need to take care of dogs?
 - [x] dog food
 - [x] dog bed
 - [x] leash
@@ -53,3 +41,22 @@ print(dog)
 - [x] treats
 
 [General Dog Care](https://www.aspca.org/pet-care/dog-care/general-dog-care)
+
+# Code snippets for dogs
+
+## Husky
+```
+dog = "Husky"
+print(dog)
+```
+
+## Shih Tzu
+```
+dog = "Shih Tzu"
+print(dog)
+```
+
+## Bernese
+```
+dog = "Bernese"
+print(dog)
